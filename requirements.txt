@@ -1,0 +1,8 @@
+face_recognition
+opencv-python
+numpy
+scikit-learn
+pandas
+matplotlib
+joblib
+openpyxl
